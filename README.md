@@ -3,7 +3,7 @@
 [![dockeri.co](http://dockeri.co/image/_/node)](https://registry.hub.docker.com/_/node/)
 
 [![GitHub issues](https://img.shields.io/github/issues/nodejs/docker-node.svg "GitHub issues")](https://github.com/nodejs/docker-node)
-[![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/nodejs/docker-node)
+[![GitHub stars](https://img.shields.io/github/stars/nodejs/docker-node.svg "GitHub stars")](https://github.com/ghaliba3/docker-node)
 
 The official Node.js docker image, made with love by the node community.
 
@@ -263,17 +263,4 @@ The Node.js Docker Image is governed by the Docker Working Group. See
 to learn more about the group's structure and [CONTRIBUTING.md](CONTRIBUTING.md) for guidance
 about the expectations for all contributors to this project.
 
-### Docker Working Group Members
 
-- Christopher Horrell ([chorrell](https://github.com/chorrell))
-- Hans Kristian Flaatten ([starefossen](https://github.com/starefossen))
-- Hugues Malphettes ([hmalphettes](https://github.com/hmalphettes))
-- John Mitchell ([jlmitch5](https://github.com/jlmitch5))
-- Peter Petrov ([pesho](https://github.com/pesho))
-
-### Docker Working Group Collaborators
-
-- Mikeal Rogers ([mikeal](https://github.com/mikeal))
-- Laurent Goderre ([LaurentGoderre](https://github.com/LaurentGoderre))
-- Simen Bekkhus ([SimenB](https://github.com/SimenB))
-- Peter Dave Hello ([PeterDaveHello](https://github.com/PeterDaveHello))
